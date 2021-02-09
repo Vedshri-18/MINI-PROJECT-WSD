@@ -10,3 +10,4 @@ Branches give you the freedom to independently work on different modules (not ne
 2. Merge A Branch: An already running branch can merge with any other branch in your Git repository. Merging a branch can help when you are done with the branch and want the code to integrate into another branch code.
 3. Delete A Branch: An already running branch can delete from your Git repository. Deleting a branch can help when the branch has done its job, i.e., it’s already merged, or you no longer need it in your repository for any reason.
 4. Checkout A Branch: An already running branch can pull or checkout to make a clone of the branch so that the user can work on any of them. Pulling a branch can help when you don’t want to disturb the older branch and experiment on the new one.
+
