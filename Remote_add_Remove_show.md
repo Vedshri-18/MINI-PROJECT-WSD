@@ -26,11 +26,12 @@ Adds a remote named [name] for the repository at [url]. The command git fetch <n
 
 If you want to remove a remote for some reason - you’ve moved the server or are no longer using a particular mirror, or perhaps a contributor isn’t contributing anymore — you can either use git remote remove or git remote rm:
 
-> $ git remote remove paul
+> $ git remote remove John
 >
 >$ git remote
 >
 >origin
+
 
 - *show*
 
@@ -46,3 +47,4 @@ Invoking git remote with the -v option will print the list of bookmarked reposit
 >
 > upstream    https://bitbucket.com/upstream_user/githubrepo (push)
 >
+
