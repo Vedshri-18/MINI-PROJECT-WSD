@@ -18,16 +18,16 @@ Readme.md
 **Section1**
 - [Git Introduction] 
 
-- [Usage of Git (1)](Usage%20of%20Git%20(1).md)
+- [Usage of Git](Usage%20of%20Git.md)
 
-- [Docker (1)](Docker%20(1).md)
+- [Docker](Docker.md)
 
-- [Introduction to Automated Testing](Automated%20Testing%20(1).md)
+- [Introduction to Automated Testing](Automated%20Testing.md)
 
-- [Continuous Integration (2)](Continuous%20Integration%20(2).md)
+- [Continuous Integration](Continuous%20Integration.md)
 
 **Section2**
-- [GitFlow Workflow (1)](GitFlow%20Workflow%20(1).md)
+- [GitFlow Workflow](GitFlow%20Workflow.md)
 
 **Section3**
 - [Repository 2](Repository%202.md)
