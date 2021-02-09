@@ -17,19 +17,19 @@
 **Section1**
 - [Git Introduction] 
 
-- [Usage of Git](Usage%20of%20Git.md)
+- [Usage%20of%20Git](Usage%20of%20Git.md)
 
 - [Docker](Docker.md)
 
-- [Introduction to Automated Testing](Automated%20Testing.md)
+- [Automated%20Testing](Automated%20Testing.md)
 
-- [Continuous Integration](Continuous%20Integration.md)
+- [Continuous%20Integration](Continuous%20Integration.md)
 
 **Section2**
-- [GitFlow Workflow](GitFlow%20Workflow.md)
+- [GitFlow%20Workflow](GitFlow%20Workflow.md)
 
 **Section3**
-- [Repository 2](Repository2.md)
+- [Repository2](Repository2.md)
 
 - [clone](clone.md)
 
@@ -47,7 +47,7 @@
 
 - [pull](pull.md)
 
- [Remote_add_Remove_show](Remote_add_Remove_show.md)
+-  [Remote_add_Remove_show](Remote_add_Remove_show.md)
 
 - [Status](Status.md)
 
@@ -96,5 +96,4 @@
 - https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.
 
 - https://git-scm.com/docs/git-status
-
 
