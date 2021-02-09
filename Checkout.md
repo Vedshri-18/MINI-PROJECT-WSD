@@ -15,4 +15,3 @@ Now, you have the list of available branches. To switch between branches, use th
 Syntax:
 
  $ git checkout <branchname> 
- 
