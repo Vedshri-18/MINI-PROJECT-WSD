@@ -155,3 +155,4 @@ The overall flow of Gitflow is:
 * When the release branch is done it is merged into develop and master
 * If an issue in master is detected a hotfix branch is created from master
 * Once the hotfix is complete it is merged to both develop and master
+
