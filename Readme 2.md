@@ -27,7 +27,7 @@ Readme.md
 - [Continuous Integration](Continuous%20Integration.md)
 
 **Section2**
-- [GitFlow WorkFlow](GitFlow%20WorkFlow.md)
+- [GitFlow Workflow](GitFlow%20Workflow.md)
 
 **Section3**
 - [Repository 2](Repository%202.md)
