@@ -12,7 +12,7 @@ For this project we are working collaboratively.
 
 * Section3:Git Terminologies
 
-## *Team Members*
+## Team Members
 
 1. Vedshri Dhoke
 
