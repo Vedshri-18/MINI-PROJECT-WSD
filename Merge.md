@@ -17,3 +17,4 @@ Git can automatically merge commits unless there are changes that conflict in bo
 5. Checkout to Master branch
 6. Git Merge the new branch with master
 
+
