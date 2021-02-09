@@ -9,3 +9,4 @@ For example, you can use forks to propose changes related to fixing a bug. Rathe
 1. Fork the repository.
 2. Make the fix.
 3. Submit a pull request to the project owner.
+
