@@ -17,3 +17,4 @@ Same as the previous pull Instead of using git merge to integrate the remote bra
 
 4. git pull --verbose
 Gives verbose output during a pull which displays the content being downloaded and the merge details.
+
